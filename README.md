@@ -3,6 +3,7 @@ Check if the sum of each number is diviable by divisor
 
 Description:
 returns array of numbers between start and stop, if sum of each number is diviable by divisor
+
 diviable_by(start, stop, divisor)
 
 Example:
